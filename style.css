@@ -2,3 +2,10 @@ p{
     color:red;
     border: 2px solid green;
 }
+img{
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+  border-radius: 30px;
+  margin-right: auto;
+}
